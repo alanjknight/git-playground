@@ -25,3 +25,5 @@ if args.operation == "^":
 
 if args.operation == "%":
     print (args.integer1 % args.integer2)
+
+print ("END")
